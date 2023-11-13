@@ -1423,7 +1423,7 @@
 			<FullviewLayoutAssociation/>
 			<Image>
 				<uri
-					id="00505601-7cf2-a1ee-95ad-6ff642890e82"
+					id="0e1c2e4e-35ce-a1ee-a079-d2137c9baaed"
 					path="Airservices/Images/Charging.png"
 					type="com.cordys.cws.documenttypes.image.Png"
 				/>
@@ -1489,7 +1489,7 @@
 			<FullviewLayoutAssociation/>
 			<Image>
 				<uri
-					id="00505601-7cf2-a1ee-95ad-6ff245300e82"
+					id="0e1c2e4e-35ce-a1ee-a079-d20941022aed"
 					path="Airservices/Images/MultiMedia.png"
 					type="com.cordys.cws.documenttypes.image.Png"
 				/>
@@ -1555,7 +1555,7 @@
 			<FullviewLayoutAssociation/>
 			<Image>
 				<uri
-					id="00505601-7cf2-a1ee-95ad-6fedb7bf8e82"
+					id="0e1c2e4e-35ce-a1ee-a079-d20c30a8aaed"
 					path="Airservices/Images/wifi.png"
 					type="com.cordys.cws.documenttypes.image.Png"
 				/>

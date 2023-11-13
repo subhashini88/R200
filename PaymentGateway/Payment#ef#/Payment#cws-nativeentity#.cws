@@ -661,7 +661,7 @@
 											<Value>CreditCard</Value>
 											<Icon>
 												<uri
-													id="00505601-7cf2-a1ee-95ad-6e73975e0e82"
+													id="0e1c2e4e-35ce-a1ee-a079-d4e59eed2aed"
 													path="PaymentGateway/Images/Cards.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -706,7 +706,7 @@
 											<Value>DebitCard</Value>
 											<Icon>
 												<uri
-													id="00505601-7cf2-a1ee-95ad-6e73975e0e82"
+													id="0e1c2e4e-35ce-a1ee-a079-d4e59eed2aed"
 													path="PaymentGateway/Images/Cards.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -751,7 +751,7 @@
 											<Value>MobileWallet</Value>
 											<Icon>
 												<uri
-													id="00505601-7cf2-a1ee-95ad-6e72fd990e82"
+													id="0e1c2e4e-35ce-a1ee-a079-d4e490432aed"
 													path="PaymentGateway/Images/Cash.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>

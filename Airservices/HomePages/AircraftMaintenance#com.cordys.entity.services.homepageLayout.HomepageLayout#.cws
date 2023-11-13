@@ -70,7 +70,7 @@
 	<FormAssociations/>
 	<Image>
 		<uri
-			id="0242ac1e-0004-a1ee-843a-47859cf9884a"
+			id="0e1c2e4e-35ce-a1ee-a079-d1ed6f1d2aed"
 			path="Airservices/Images/Cathay_Pacific_logo_Background.png"
 			type="com.cordys.cws.documenttypes.image.Png"
 		/>
@@ -101,7 +101,7 @@
 			<PanelCategories/>
 			<PanelIcon>
 				<uri
-					id="0242ac1e-0004-a1ee-843a-478a3039884a"
+					id="0e1c2e4e-35ce-a1ee-a079-d21484272aed"
 					path="Airservices/Images/AirPlane.png"
 					type="com.cordys.cws.documenttypes.image.Png"
 				/>
